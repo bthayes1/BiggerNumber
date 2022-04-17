@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bigger Number</string>
+    <string name="playAgain">Play Again?</string>
+    <string name="bigger_number_guessing_game">Bigger Number Guessing Game</string>
+    <string name="guess_the_larger_number">Guess the larger number</string>
+    <string name="ready_to_play">Ready to Play?</string>
+</resources>
