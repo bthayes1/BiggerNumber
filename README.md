@@ -6,3 +6,5 @@ The user will play a game where they will choose between 2 numbers, guessing whi
 Depending on if answer is correct/incorrect, the app will make the following changes:
   -Background color will change
   -A message will appear on the bottom
+
+<img src='https://j.gifs.com/NOjKrp.gif' title = 'Video Walkthrough' width = '' alt = 'Video Walkthrough' />1
