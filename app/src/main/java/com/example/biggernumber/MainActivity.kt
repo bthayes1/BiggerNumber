@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "Congrats you won!!!", Toast.LENGTH_SHORT).show()
         }
         else{
-            background.setBackgroundColor(Color.MAGENTA)
+            background.setBackgroundColor(Color.RED)
             Toast.makeText(this, "you suck...", Toast.LENGTH_SHORT).show()
         }
         gameState(reset, left, right, false)
